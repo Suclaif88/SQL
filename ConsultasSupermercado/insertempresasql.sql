@@ -1,0 +1,1 @@
+INSERT INTO empresa (NIT,nombre,direccion,telefono,correo) VALUES ('012198739','PacoIndustrys','Cra 66 #49-43','3105290783','empresa@empresa.com')
